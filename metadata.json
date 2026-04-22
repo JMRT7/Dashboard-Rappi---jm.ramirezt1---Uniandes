@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Rappi Store Availability Dashboard",
+  "description": "Un panel de control interactivo para monitorear la disponibilidad de tiendas Rappi, con un analista de IA integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
